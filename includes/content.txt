@@ -1,0 +1,25 @@
+homepage_text=Home
+about_me_text=About Me
+projects_text=Projects
+skills_text=Skills
+contact_text=Contact
+aka_text=aka 'jaiNya'
+homepage_title=JAIR DAVE MOLAVIZAR
+homepage_description=I manage the complete process of website development, deployment, and ongoing maintenance, from start to finish.
+about_me_paragraph=As a college student, I’ve explored programming in Python, JavaScript, and C#. Over the past three years, I’ve developed a strong interest in website development and have honed my skills by creating websites for individuals and small businesses.
+contact_title=Contact Me
+contact_email=molavizar.jairdave@gmail.com
+contact_phone=0909-535-8970
+skills_list=Backend Development (Java, PHP, Node.js)* Backend Development (Java, PHP, Node.js)* Database Management (SQL, MongoDB)
+
+
+about_me_full1=As a dedicated college student with a passion for technology, I’ve spent the last few years immersing myself in the world of programming and web development. With experience in multiple programming languages, including Python, JavaScript, PHP, Java, and much more, I’ve cultivated a strong foundation in software development. These languages have allowed me to approach problems from different perspectives and gain insights into both back-end and front-end technologies.
+about_me_full2=Throughout my journey, I’ve developed a particular interest in website development. Over the past three years, I’ve worked on creating fully functional and visually appealing websites for individuals, small businesses, and local startups. This hands-on experience has not only sharpened my technical skills but has also taught me the importance of user-centric design, clean code, and the significance of building responsive, accessible, and optimized websites.
+about_me_full3=In my website development projects, I prioritize understanding the client’s vision and goals, translating their ideas into tailored digital solutions. I specialize in creating intuitive and user-friendly websites that reflect the unique identities of businesses and individuals, while ensuring that the final product performs seamlessly across devices and platforms. My experience extends across various website functionalities, from simple static sites to dynamic, interactive applications.
+about_me_full4=In addition to the technical aspects, I’ve learned how to collaborate effectively with clients, ensuring that their needs are met while also incorporating best practices in design and performance. By staying up to date with industry trends and continuously experimenting with new technologies, I’m committed to delivering websites that not only meet but exceed expectations.<br/><br/>
+about_me_full5=As I continue my education and work towards further developing my skills, I look forward to taking on more complex challenges and pushing the boundaries of what’s possible in web development.
+
+
+project1_details=This project is a simple chatbot built using Java Swing for the graphical user interface (GUI). The chatbot is designed to interact with users in a conversational manner. It features a text area that displays the conversation and an input field where users can type their messages. The bot provides responses based on predefined input patterns, such as greetings and common questions. The chatbot aims to offer a friendly, interactive experience and can handle basic inquiries like greetings, introductions, and responses to specific questions. This project showcases basic GUI elements and event handling in Java, along with the creation of a simple, rule-based AI chatbot.
+
+

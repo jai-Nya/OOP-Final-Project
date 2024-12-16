@@ -1,0 +1,3 @@
+soft_skills=Effective Communication,Problem-Solving,Adaptability,Leadership,Time Management
+technical_skills=Python,JavaScript,HTML,CSS,Pine Script,Java
+other_skills=Attention to Detail,Team Collaboration,Emotional Intelligence,Creative Thinking
